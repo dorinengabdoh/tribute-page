@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  text-align: center;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  color: #333;
+  margin: 0;
+}
+
+#main {
+  margin: 3rem 8px;
+  padding: 1.5rem;
+  border-radius: 5px;
+  background: #eee;
+}
+
+#title {
+  font-size: 4rem;
+  margin-bottom: 0;
+}
+
+#img-div {
+  background: #fff;
+  padding: 1rem;
+  margin: 0;
+}
+
+#img-caption {
+  padding: 1rem 0 5px;
+}
+
+#headline {
+  margin: 5rem 0;
+  text-align: center;
+}
+
+ul,
+blockquote {
+  max-width: 50.5rem;
+  text-align: left;
+  margin: 0 auto 5rem;
+}
+
+ul {
+  line-height: 1.5;
+}
+
+li {
+  margin: 1.6rem 0;
+}
+
+blockquote {
+  font-style: italic;
+}
+
+a {
+  color: #477ca7;
+}
